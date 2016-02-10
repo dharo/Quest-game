@@ -5,6 +5,7 @@
  * Game of quest
  *
  * Created on February 9, 2016, 8:53 PM
+ * Shared Project between Alex and David
  */
 
 #include <cstdlib>
